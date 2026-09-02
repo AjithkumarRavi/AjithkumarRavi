@@ -19,7 +19,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -34,7 +34,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 > *"Writing backend systems that are reliable, well-structured, and easy for the next developer to understand."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +67,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 **AI-Assisted Development**
 `ChatGPT` `Prompt Engineering` `AI-assisted Debugging`
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -77,7 +77,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 > Note: this widget pulls live data from GitHub, so it'll reflect whatever activity is actually on the account — numbers will grow as more commits are added. (Stats/language/trophy widgets were left out here since the free public service that powers them is currently unreliable and often shows broken images — they can be added back once that service stabilizes.)
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 💼 Work Experience
 
@@ -116,7 +116,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -129,7 +129,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🎓 Education
 
@@ -142,12 +142,19 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 </div>
 
 **Certifications**
-![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-Placementpoint_Solution-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Data Analysis with Python](https://img.shields.io/badge/Data_Analysis_with_Python-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![SQL](https://img.shields.io/badge/Introduction_to_SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
----
+<div align="center">
+
+| Certification | Provider |
+|---|---|
+| SAP ABAP | Placementpoint Solution |
+| Data Analysis with Python | freeCodeCamp |
+| Responsive Web Design | freeCodeCamp |
+| Introduction to SQL | — |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📚 Currently Learning
 
@@ -157,7 +164,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 ☁️ Azure            → App Services, Deployment, Cloud Fundamentals
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
