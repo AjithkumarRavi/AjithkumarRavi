@@ -2,7 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajithkumar%20Ravi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=.NET%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20MVC%20%C2%B7%20SQL%20Server&descAlignY=62&descSize=16" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Backend+%2F+.NET+Developer;C%23+%C2%B7+ASP.NET+MVC+%C2%B7+SQL+Server;Building+Enterprise+REST+APIs;Learning+ASP.NET+Core+%2B+Azure" alt="Typing SVG" />
+
 📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii)
+
+<img src="https://komarev.com/ghpvc/?username=AjithkumarRavi&label=Profile%20Views&color=70a5fd&style=flat-square" />
+<a href="https://github.com/AjithkumarRavi?tab=followers"><img src="https://img.shields.io/github/followers/AjithkumarRavi?label=Followers&style=flat-square&color=bf91f3" /></a>
+
+&nbsp;
+
+[![About](https://img.shields.io/badge/-About-70A5FD?style=for-the-badge)](#-about-me)
+[![Tech Stack](https://img.shields.io/badge/-Tech_Stack-BF91F3?style=for-the-badge)](#️-tech-stack)
+[![Experience](https://img.shields.io/badge/-Experience-38BDAE?style=for-the-badge)](#-work-experience)
+[![Projects](https://img.shields.io/badge/-Projects-70A5FD?style=for-the-badge)](#-featured-projects)
+[![Contact](https://img.shields.io/badge/-Contact-BF91F3?style=for-the-badge)](#-lets-connect)
 
 </div>
 
@@ -18,6 +31,8 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 - 📚 Currently learning: ASP.NET Core, Entity Framework Core, Azure
 - 🤖 Regularly use ChatGPT for documentation, debugging, and productivity
 - 💬 Motto: Clean backend logic, optimized queries, always learning.
+
+> *"Writing backend systems that are reliable, well-structured, and easy for the next developer to understand."*
 
 ---
 
@@ -57,27 +72,10 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/AjithkumarRavi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AjithkumarRavi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/AjithkumarRavi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjithkumarRavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=AjithkumarRavi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjithkumarRavi&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AjithkumarRavi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
-> Note: these widgets pull live data from GitHub — they'll reflect whatever activity is actually on the account, so numbers may be modest until more public repos/commits are added.
+> Note: this widget pulls live data from GitHub, so it'll reflect whatever activity is actually on the account — numbers will grow as more commits are added. (Stats/language/trophy widgets were left out here since the free public service that powers them is currently unreliable and often shows broken images — they can be added back once that service stabilizes.)
 
 ---
 
@@ -144,10 +142,10 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 </div>
 
 **Certifications**
-- SAP ABAP — Placementpoint Solution
-- Data Analysis with Python — freeCodeCamp
-- Responsive Web Design — freeCodeCamp
-- Introduction to SQL
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-Placementpoint_Solution-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Data Analysis with Python](https://img.shields.io/badge/Data_Analysis_with_Python-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
+![SQL](https://img.shields.io/badge/Introduction_to_SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -163,7 +161,11 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 <div align="center">
 
-📫 Reach me at **ajithkumarravi18@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/ajithkumarravii)
+### 🤝 Let's Connect
+
+📫 **ajithkumarravi18@gmail.com** &nbsp;•&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii) &nbsp;•&nbsp; 📱 +91-9677472019
+
+*Open to backend/.NET opportunities and collaboration on interesting projects.*
 
 </div>
 
