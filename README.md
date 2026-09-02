@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ajithkumar Ravi 👋
-### .NET Developer | C# · ASP.NET MVC · SQL Server | Backend & REST APIs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajithkumar%20Ravi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=.NET%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20MVC%20%C2%B7%20SQL%20Server&descAlignY=62&descSize=16" width="100%"/>
 
-📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ajithkumarravii)
+📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumar-ravi)
 
 </div>
 
@@ -11,20 +10,14 @@
 
 ## 👨‍💻 About Me
 
-```csharp
-public class AjithkumarRavi
-{
-    public string Location   = "Chennai, India";
-    public string Degree     = "B.Tech - Information Technology";
-    public string[] Stack    = { "C#", "ASP.NET MVC", ".NET Framework", "SQL Server", "REST APIs" };
-    public string[] Learning = { "ASP.NET Core", "Entity Framework Core", "Azure" };
-    public string FunFact    = "Uses AI (ChatGPT) as a daily pair-programming partner";
-
-    public string Motto() => "Clean backend logic, optimized queries, always learning.";
-}
-```
-
 I'm a Software Engineer with 2+ years of experience building enterprise backend applications — REST APIs, business logic, and SQL Server-backed systems, including work on enterprise mortgage loan processing. Currently expanding into ASP.NET Core, Entity Framework Core, and Azure.
+
+- 📍 Based in Chennai, India
+- 🎓 B.Tech in Information Technology
+- 🧰 Core stack: C#, ASP.NET MVC, .NET Framework, SQL Server, REST APIs
+- 📚 Currently learning: ASP.NET Core, Entity Framework Core, Azure
+- 🤖 Regularly use ChatGPT for documentation, debugging, and productivity
+- 💬 Motto: Clean backend logic, optimized queries, always learning.
 
 ---
 
@@ -73,7 +66,15 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 </div>
 
 <div align="center">
+<img src="https://streak-stats.demolab.com?user=AjithkumarRavi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjithkumarRavi&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AjithkumarRavi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 > Note: these widgets pull live data from GitHub — they'll reflect whatever activity is actually on the account, so numbers may be modest until more public repos/commits are added.
@@ -166,3 +167,4 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
