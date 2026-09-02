@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajithkumar%20Ravi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=.NET%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20MVC%20%C2%B7%20SQL%20Server&descAlignY=62&descSize=16" width="100%"/>
 
-📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumar-ravi)
+📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii)
 
 </div>
 
