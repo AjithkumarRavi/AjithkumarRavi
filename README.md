@@ -3,7 +3,7 @@
 # Hi, I'm Ajithkumar Ravi 👋
 ### .NET Developer | C# · ASP.NET MVC · SQL Server | Backend & REST APIs
 
-📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/ajithkumar-ravi-340092217)
+📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ajithkumarravii)
 
 </div>
 
