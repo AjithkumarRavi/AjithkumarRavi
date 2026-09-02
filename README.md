@@ -95,6 +95,33 @@ I'm a Full Stack Developer with 2+ years of experience building enterprise web a
 ## 💼 Work Experience
 
 <details>
+<summary><strong>Full Stack Developer @ Tawny Technologies</strong> — 2025 – Present</summary>
+<br>
+
+> `ASP.NET MVC` `React` `Vite` `REST APIs` `SQL Server` `Authentication`
+
+- Developed ASP.NET MVC applications and REST APIs, covering both backend logic and UI-facing views
+- Built responsive frontend interfaces using React and Vite, integrating them with backend REST APIs
+- Implemented authentication and SQL Server database enhancements
+- Configured and deployed application builds to IIS-hosted environments
+- Used AI-assisted development tools — Claude, GitHub Copilot, Antigravity, ChatGPT, and OpenCode — for coding, debugging, and productivity
+
+</details>
+
+<details>
+<summary><strong>Freelance Full Stack / .NET Developer</strong> — 2024 – 2025</summary>
+<br>
+
+> `C#` `.NET` `SQL Server` `PostgreSQL` `MySQL` `Automation`
+
+- Built backend services, reporting modules and automation tools end-to-end, from database design through deployment
+- Deployed and managed applications using IIS, Azure, Vercel, and MilesWeb hosting environments
+- Worked across SQL Server, PostgreSQL and MySQL depending on project requirements
+- Used AI-assisted development tools (GitHub Copilot, Claude, ChatGPT) for documentation, debugging and productivity
+
+</details>
+
+<details>
 <summary><strong>.NET Developer @ Wipro Technologies</strong> — May 2022 – Aug 2023</summary>
 <br>
 
@@ -104,28 +131,6 @@ I'm a Full Stack Developer with 2+ years of experience building enterprise web a
 - Built REST APIs for enterprise mortgage loan processing
 - Implemented business logic and optimized SQL queries and stored procedures
 - Worked with QA and Business Analysts in Agile teams
-
-</details>
-
-<details>
-<summary><strong>Full Stack Developer @ Tawny Technologies</strong> — Sep 2023 – Dec 2023</summary>
-<br>
-
-> `ASP.NET MVC` `REST APIs` `SQL Server` `Authentication`
-
-- Developed ASP.NET MVC applications and REST APIs
-- Implemented authentication and SQL Server database enhancements
-
-</details>
-
-<details>
-<summary><strong>Freelance Backend/.NET Developer</strong> — Jan 2024 – Present</summary>
-<br>
-
-> `C#` `.NET` `Automation` `AI-Assisted Development`
-
-- Built backend services, reporting modules and automation tools
-- Used ChatGPT for documentation, debugging and productivity
 
 </details>
 
@@ -163,7 +168,8 @@ I'm a Full Stack Developer with 2+ years of experience building enterprise web a
 | SAP ABAP | Placementpoint Solution |
 | Data Analysis with Python | freeCodeCamp |
 | Responsive Web Design | freeCodeCamp |
-| Introduction to SQL | — |
+| Artificial Intelligence Foundations: Machine Learning | LinkedIn Learning |
+| Learning the JavaScript Language | LinkedIn Learning |
 
 </div>
 
@@ -183,7 +189,7 @@ I'm a Full Stack Developer with 2+ years of experience building enterprise web a
 
 ### 🤝 Let's Connect
 
-📫 **ajithkumarravi18@gmail.com** &nbsp;•&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii) &nbsp;•&nbsp; 📱 +91-9677472019
+📫 **ajithkumarravi18@gmail.com** &nbsp;•&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii) &nbsp;•&nbsp; 💻 [GitHub](https://github.com/AjithkumarRavi) &nbsp;•&nbsp; 📱 +91-9677472019
 
 *Open to backend/.NET opportunities and collaboration on interesting projects.*
 
