@@ -163,7 +163,7 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 
 <div align="center">
 
-📫 Reach me at **ajithkumarravi18@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/ajithkumar-ravi)
+📫 Reach me at **ajithkumarravi18@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/ajithkumarravii)
 
 </div>
 
