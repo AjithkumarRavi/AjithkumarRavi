@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajithkumar%20Ravi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=.NET%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20MVC%20%C2%B7%20SQL%20Server&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajithkumar%20Ravi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20SQL%20Server&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Backend+%2F+.NET+Developer;C%23+%C2%B7+ASP.NET+MVC+%C2%B7+SQL+Server;Building+Enterprise+REST+APIs;Learning+ASP.NET+Core+%2B+Azure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%C2%B7+ASP.NET+MVC+%C2%B7+React+%C2%B7+SQL+Server;Building+Enterprise+REST+APIs;Learning+ASP.NET+Core+%2B+Azure" alt="Typing SVG" />
 
-📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii)
+📍 Chennai, India &nbsp;|&nbsp; ✉️ ajithkumarravi18@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ajithkumarravii) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/AjithkumarRavi)
 
 <img src="https://komarev.com/ghpvc/?username=AjithkumarRavi&label=Profile%20Views&color=70a5fd&style=flat-square" />
 <a href="https://github.com/AjithkumarRavi?tab=followers"><img src="https://img.shields.io/github/followers/AjithkumarRavi?label=Followers&style=flat-square&color=bf91f3" /></a>
@@ -23,13 +23,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with 2+ years of experience building enterprise backend applications — REST APIs, business logic, and SQL Server-backed systems, including work on enterprise mortgage loan processing. Currently expanding into ASP.NET Core, Entity Framework Core, and Azure.
+I'm a Full Stack Developer with 2+ years of experience building enterprise web applications across the stack — from C#/.NET backend services and REST APIs to React/Vite frontends, database design, and deployment. Currently expanding into ASP.NET Core, Entity Framework Core, and Azure.
 
 - 📍 Based in Chennai, India
 - 🎓 B.Tech in Information Technology
-- 🧰 Core stack: C#, ASP.NET MVC, .NET Framework, SQL Server, REST APIs
+- 🧰 Core stack: C#, ASP.NET MVC, React, Vite, SQL Server, REST APIs
 - 📚 Currently learning: ASP.NET Core, Entity Framework Core, Azure
-- 🤖 Regularly use ChatGPT for documentation, debugging, and productivity
+- 🤖 Regularly use AI tools — Claude, GitHub Copilot, Antigravity, ChatGPT, OpenCode — for coding, debugging, and productivity
 - 💬 Motto: Clean backend logic, optimized queries, always learning.
 
 > *"Writing backend systems that are reliable, well-structured, and easy for the next developer to understand."*
@@ -49,23 +49,36 @@ I'm a Software Engineer with 2+ years of experience building enterprise backend 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Learning-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Database**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Hosting / Deployment**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS_Server-005BAC?style=flat-square&logo=windows&logoColor=white)
 
 **Tools**
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
+**ERP**
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
 **Concepts**
 `OOP` `SOLID` `LINQ` `REST APIs` `JWT` `Agile` `SDLC`
 
 **AI-Assisted Development**
-`ChatGPT` `Prompt Engineering` `AI-assisted Debugging`
+`Claude` `GitHub Copilot` `Antigravity` `ChatGPT` `OpenCode` `Prompt Engineering`
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
